@@ -24,6 +24,7 @@
     "@types/react": "^19",
     "@types/react-calendar-heatmap": "^1.9.0",
     "@types/react-dom": "^19",
+    "@types/webpack-env": "^1.18.5",
     "eslint": "^9",
     "eslint-config-next": "15.1.5",
     "postcss": "^8",
